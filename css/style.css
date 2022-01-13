@@ -1,3 +1,7 @@
+body{
+    width: 1057px;
+    height: 1546px;
+}
 .logo{
     width: 200px;
     height: 80px;
@@ -6,4 +10,28 @@ header{
     background-color: #4ea0fb;
     background-image:url(../img/pattern.png);
     background-size: 25%;
+}
+h1{
+    margin: 0;
+}
+h3{
+    color: #828282;
+    margin: 0;
+}
+h4{
+    color: #828282;  
+    margin: 0; 
+}
+a{
+    text-decoration: none;
+    color: #41afe6;
+}
+.title{
+    margin-top: 16px;
+}
+p{
+    margin: 0;
+}
+.galery{
+    margin: 16px auto;
 }
