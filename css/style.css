@@ -1,7 +1,7 @@
-body{
+ body{
     width: 1057px;
     height: 1546px;
-}
+} 
 .logo{
     width: 200px;
     height: 80px;
@@ -29,9 +29,24 @@ a{
 .title{
     margin-top: 16px;
 }
-p{
-    margin: 0;
-}
 .galery{
     margin: 16px auto;
 }
+ul{
+    padding: 16px;
+}
+table{
+    width: 100%;
+}
+thead{
+    background-color: #3da9e5;
+    color: white;
+    text-align: left;
+}
+tbody{
+    background-color: #b1e5f2;
+}
+.table-bianco{
+    background-color: white;
+}
+
