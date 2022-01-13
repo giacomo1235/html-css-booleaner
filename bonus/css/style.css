@@ -46,7 +46,8 @@ ul{
 }
 table{
     width: 100%;
-}
+    border-spacing: 0;
+} 
 thead{
     background-color: #3da9e5;
     color: white;
